@@ -19,7 +19,7 @@ while choice.upper() != 'D':
         print("Thank you!")
 
 
-def viewRec():
+def viewRec(): #Cacho
     file = open(filename, 'r')
     with open(filename, 'r') as read_file:
         print(read_file.read())
