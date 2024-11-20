@@ -2,8 +2,8 @@
 This is our first GitHub
 activity.
 Members names:
-Cruz, Adam (leader)
-Lumabi, Jayson
-Cacho, Jarell
-Cruz, Juliana
-Dimasimpan, Hasanor
+1. Cruz, Adam (leader) 
+2. Lumabi, Jayson
+3. Cacho, Jarell
+4. Cruz, Juliana
+5. Dimasimpan, Hasanor
